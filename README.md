@@ -1,5 +1,6 @@
 # Capstone_Project_IOD_6Dec
-Repository for Github Capstone Project
+Repository for Github Capstone Project (IOD - 6 Dec 2022 part time batch)
+
 This capstone project contains a few files:
 1. Deploy.py is the code that contains my file that I used for deploying on streamlit. The link to the streamlit app is here: https://palecascade-1-deployment-deploy-1m8aj4.streamlit.app/. I used another repository to deploy the streamlit app. The other repository is at this link: https://github.com/PaleCascade-1/Deployment.git
 2. Model for Deployment - Insurance.ipynb is the file that I used to generate the XGBoost model as a pkl file, called "insurance_claim_classifier.pkl". The pkl file is too big, so it's in the other repository instead of this one. I did not upload the pkl file here.
